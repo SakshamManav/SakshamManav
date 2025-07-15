@@ -1,6 +1,15 @@
-# 💫 About Me:
-🌟 Welcome to My GitHub Profile!<br>Hi, I'm Saksham, a passionate full-stack developer and 2nd-year engineering student with a love for building creative, responsive, and user-friendly applications. I’m currently working on sharpening my skills in DSA, React, Node.js, and C++ while exploring new technologies and best practices.<br><br>🚀 About Me:<br>🔭 I’m currently working on: React Js<br>🌱 I’m learning: Redux, Data Structures and Algorithms, and C++<br>🎯 My goal: Build scalable and efficient software solutions<br>🌟 Fun Fact: "I name my variables better than I name my files. RIP final_final_final2.cpp." 😂<br><br>🛠️ Technologies & Tools:<br>Languages: C++, JavaScript, Python, HTML, CSS<br>Frameworks/Libraries: React, Redux, Node.js, Bootstrap<br>Databases: MongoDB, Firebase<br>Version Control: Git & GitHub<br>Other Tools: VS Code, Postman
+Welcome to My GitHub Profile!<br>
+Hi, I'm Saksham, a passionate full-stack developer and 3rd-year engineering student with a deep interest in Data Science, Machine Learning, and DSA. I love building creative, scalable, and user-focused applications while continuously learning and experimenting with new technologies.<br><br>
 
+Current Focus:
+Working on: Data Science Projects, ML Models, and mastering DSA
+
+Learning: Machine Learning, Advanced DSA, and Real-world Problem Solving
+
+Goal: To build intelligent, efficient, and scalable software solutions that make an impact
+
+Fun Fact:
+"I name my variables better than my files. RIP final_final_v2_real.cpp."
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sakshammanav/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-manav-18b303334/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Chotucoder) 
