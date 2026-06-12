@@ -1,15 +1,29 @@
-Welcome to My GitHub Profile!<br>
-Hi, I'm Saksham, a passionate full-stack developer and 3rd-year engineering student with a deep interest in Data Science, Machine Learning, and DSA. I love building creative, scalable, and user-focused applications while continuously learning and experimenting with new technologies.<br><br>
+# Welcome to My GitHub Profile 👋
 
-Current Focus:
-Working on: Data Science Projects, ML Models, and mastering DSA
+Hi, I'm **Saksham**, a passionate Full-Stack Developer and Computer Science engineering student. I enjoy building scalable web applications, solving challenging DSA problems, and exploring modern technologies that create meaningful user experiences.
 
-Learning: Machine Learning, Advanced DSA, and Real-world Problem Solving
+### Current Focus
 
-Goal: To build intelligent, efficient, and scalable software solutions that make an impact
+* Building full-stack applications using the MERN stack
+* Strengthening Data Structures & Algorithms
+* Developing real-world projects with secure authentication, APIs, and cloud services
 
-Fun Fact:
-"I name my variables better than my files. RIP final_final_v2_real.cpp."
+### Currently Learning
+
+* Advanced DSA and problem-solving techniques
+* System Design fundamentals
+* Performance optimization and scalable backend architecture
+
+### Goal
+
+To become a skilled software engineer who builds reliable, impactful, and user-centric products while continuously learning and improving.
+
+### Tech Stack
+
+JavaScript • React • Node.js • Express.js • MongoDB • SQL • C++ • 
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-manav-18b303334) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SakshamManav25) 
